@@ -99,3 +99,6 @@
 <br/>
 
 <h1 align="center"></h1>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Trusted-Dev&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+
