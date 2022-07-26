@@ -5,8 +5,8 @@
 </p>
 
 <h1 align="center">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=securitybeautystar.securitybeautystar" />
-  <img align="right" src="https://img.shields.io/github/followers/securitybeautystar?label=Follow&style=social" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Trusted-Dev.Trusted-Dev" />
+  <img align="right" src="https://img.shields.io/github/followers/Trusted-Dev?label=Follow&style=social" />
 </h1>
 <div>
  <p>⚡IT enthusiast and perfectionist, who pursues his goals relentlessly and seeks to excel at every single task he performs.</p>
@@ -156,14 +156,3 @@
 <br/>
 
 <h1 align="center"></h1>
-<div>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=securitybeautystar&show_icons=true&theme=gotham&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securitybeautystar&layout=compact&theme=gotham&count_private=true" /> 
-<img height="150px" />
-</div>
-<br/> 
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=securitybeautystar&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=securitybeautystar&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
