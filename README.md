@@ -5,8 +5,8 @@
 </p>
 
 <h1 align="center">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Trusted-Dev.Trusted-Dev" />
-  <img align="right" src="https://img.shields.io/github/followers/Trusted-Dev?label=Follow&style=social" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=securitybeautystar.securitybeautystar" />
+  <img align="right" src="https://img.shields.io/github/followers/securitybeautystar?label=Follow&style=social" />
 </h1>
 <div>
  <p>⚡IT enthusiast and perfectionist, who pursues his goals relentlessly and seeks to excel at every single task he performs.</p>
@@ -50,6 +50,9 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100"/> 
     </td>
+  </tr>
+  
+  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     </td>
@@ -59,9 +62,6 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     </td>
-  </tr>
-  
-  <tr>
     <td>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     </td>
@@ -86,19 +86,13 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
     </td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
     </td>
   </tr>
 </table>
